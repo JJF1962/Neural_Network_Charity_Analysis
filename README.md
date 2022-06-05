@@ -2,7 +2,7 @@
 
 ## Overview of the Analysis
 
-The pupose of this analysis was to apply all learned in module 19 Neural Networks amd Deep Learning Models, to execute it was used Google Colab, TensorFlow platforom (Python), to review, analize and classify the suceess of donations in a data set named charity_data.csv. It was used in the preporation of two analysis "AlphaSoupCharity.ipynb" and "AlphaSoupCharity_Optimization.ipynb" the following methods for the challenge execution:
+The pupose of this analysis was to apply all learned in module 19 Neural Networks amd Deep Learning Models, to execute it was used Google Colab, TensorFlow platforom (Python), to review, analize and classify the suceess of donations in a data set named charity_data.csv. It was used in the execution of two analysis "AlphaSoupCharity.ipynb" and "AlphaSoupCharity_Optimization.ipynb" the following methods for the challenge execution:
 * Proprocesing the data for the neural network model compile
 * Train and evaluate the model
 * Optimize the model
@@ -57,7 +57,7 @@ This model acheived initially 73.24% accuracy as you can see below
 ![this is an image](https://github.com/JJF1962/Neural_Network_Charity_Analysis/blob/main/Images/Capture%20fig%202.PNG)
 
 
-Later in the optimization notebook, we executed 3 attempts tto incraese the accuracy, included codes to ncrease the number of hidden nodes in layer 1 (3 X number of input features),  the number of hidden layers to include a 3rd
+Later in the alphabetSoupCharity_Optimization notebook, it were executed 3 attempts tto incraese the accuracy, using codes to increase the number of hidden nodes in layer 1 (3 X number of input features),  the number of hidden layers to include a 3rd
 changing the activation functions: tried linear, tanh, sigmoid for a combination of hidden layers and output layer as you can see reults in the figure below:
 
 ![this is an image](https://github.com/JJF1962/Neural_Network_Charity_Analysis/blob/main/Images/Capture%20fig%203PNG.PNG)
@@ -67,6 +67,4 @@ Additionally it was  saved to files "AlphabetSoupCharity.h5" & "AlphabetSupChari
 
 
 ## Summary
-Our Analysis and Deep Learning Model Results include a recommendation for how a different model could solve this classification and results.
-
-
+After the execution of the three delliverables The deep learning neural network model no allow me to reach the target accuracy of 75%. and the final result was lower that the first one obtained before obtimze.based on it it is is posible to consider that this target level is pretty low,  not be consider an outperform. 
