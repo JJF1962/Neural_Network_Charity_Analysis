@@ -67,4 +67,4 @@ Additionally it was  saved to files "AlphabetSoupCharity.h5" & "AlphabetSupChari
 
 
 ## Summary
-After the execution of the three delliverables The deep learning neural network model no allow me to reach the target accuracy of 75%. and the final result was lower that the first one obtained before obtimze.based on it it is is posible to consider that this target level is pretty low,  not be consider an outperform. 
+After the execution of the three delliverables The deep learning neural network model no allow me to reach the target accuracy of 75%. and the final result was lower that the first one obtained before obtimze 13.17% .based on it it is is posible to consider that this target level is pretty low, but  not be consider an outperform. 
