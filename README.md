@@ -49,7 +49,7 @@ Model Configuration:
 
 Pleasee code below and results below
 
-![this is an image]()
+![this is an image](https://github.com/JJF1962/Neural_Network_Charity_Analysis/blob/main/Images/Capture.PNG)
 
 This model acheived initially 73.24% accuracy as you can see below
 
