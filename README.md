@@ -21,7 +21,7 @@ This challenge 19 consisted in four deliverables as indicated as followows:
 
 The results will be detailed in the following section.
 
-## Reults
+## Results
 Data Preprocessing
 Developing this analysis and model, the target was held in IS_SUCCESSFUL field.
 
