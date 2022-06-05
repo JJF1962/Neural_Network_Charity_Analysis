@@ -60,7 +60,7 @@ This model acheived initially 73.24% accuracy as you can see below
 Later in the optimization notebook, we executed 3 attempts tto incraese the accuracy, included codes to ncrease the number of hidden nodes in layer 1 (3 X number of input features),  the number of hidden layers to include a 3rd
 changing the activation functions: tried linear, tanh, sigmoid for a combination of hidden layers and output layer as you can see reults in the figure below:
 
-![this is an image]()
+![this is an image](https://github.com/JJF1962/Neural_Network_Charity_Analysis/blob/main/Images/Capture%20fig%202.PNG)
 
 
 Additionally it was  saved to files "AlphabetSoupCharity.h5" & "AlphabetSupCharity-optimized.h5" in Google Colab and uploaded to the Github repository as well
